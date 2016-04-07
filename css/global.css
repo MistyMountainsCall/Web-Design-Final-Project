@@ -1,0 +1,21 @@
+body {
+	margin: auto;
+}
+
+.nav_bar {
+	margin: 0;
+	padding: 0;
+	height: 30px;
+}
+
+.page_content {
+	width: 1000px;
+	margin-top: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.footer {
+	margin-bottom: 5px;
+	text-align: 
+}
