@@ -58,7 +58,7 @@ body {
 	width: 1000px;
 	height: 28px;
 	border-top: 1px solid #E0E0E0;
-	position: absolute;
+	position: static;
 	bottom: 0px; 
 	left: 0px; 
 	margin: auto;
