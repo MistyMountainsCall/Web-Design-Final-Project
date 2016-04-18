@@ -1,0 +1,19 @@
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.deal_item {
+	width: 1000px;
+	height: 210px;
+}
+
+#main_title {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 0;
+	margin-bottom: 20px;
+}
