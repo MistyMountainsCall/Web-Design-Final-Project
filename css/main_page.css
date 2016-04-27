@@ -1,9 +1,11 @@
 .left {
 	float: left;
+	margin-left: 10px;
 }
 
 .right {
 	float: right;
+	margin-right: 10px;
 }
 
 .deal_item {
@@ -12,8 +14,13 @@
 }
 
 #main_title {
-	margin-left: 10px;
-	margin-right: 10px;
+	margin-left: auto;
+	margin-right: auto;
 	margin-top: 0;
 	margin-bottom: 20px;
+	display: block;
+}
+
+#content {
+	border-top: 1px solid #E0E0E0;
 }
