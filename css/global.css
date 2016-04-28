@@ -1,7 +1,11 @@
 body {
-	position: top;
+	position: relative;
 	margin: 0;
 	background-image: url("images/back.png");
+}
+
+#logo {
+	height: 40px;
 }
 
 #nav {
@@ -34,9 +38,9 @@ body {
 
 #nav a {
 	font-size: 16pt;
+	font-family: 'Roboto', sans-serif;
 	vertical-align: middle;
-	display table-cell;
-	display: block;
+	display: table-cell;
 	color: white;
 	text-align: center;
 	padding: 14px 16px;
@@ -52,10 +56,6 @@ body {
     background-color: #4CAF50;
 }
 
-#logo {
-	height: 40px;
-}
-
 #content {
 	background-color: #202020;
 	color: white;
@@ -68,29 +68,6 @@ body {
 	margin-bottom: 0;
 }
 
-#footer {
-	width: 1000px;
-	height: 28px;
-	border-top: 1px solid #E0E0E0;
-	position: static;
-	bottom: 0px; 
-	left: 0px; 
-	margin-left: auto;
-	margin-right: auto;
-	margin-bottom: 0;
-	margin-top: 0;
-	right: 0px;
-	text-align: center;
-}
-
-.clear {
-	clear: both;
-}
-
-p {
-	font-family: sans-serif;
-}
-
 #content h1 {
 	font-family: 'Droid Serif';
 }
@@ -101,4 +78,27 @@ p {
 
 #content h3 {
 	font-family: 'Droid Serif';
+}
+
+#content p {
+	font-family: sans-serif;
+}
+
+#footer {
+	width: 1000px;
+	height: 30px;
+	border-top: 1px solid #E0E0E0;
+	position: static;
+	bottom: 0px; 
+	left: 0px; 
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-top: 5px;
+	right: 0px;
+	text-align: center;
+}
+
+.clear {
+	clear: both;
 }
