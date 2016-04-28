@@ -32,25 +32,25 @@
 }
 
 .right_text {
-	float: left;
+	float: right;
 	margin: 0;
 	padding: 10px;
-	width: 200px;
+	width: 280px;
 }
 
 .right_image {
-	float: left;
+	float: right;
 	margin: 10px;
 }
 
 .left_text {
-	float: right;
+	float: left;
 	margin: 0px;
 	padding: 10px;
-	width: 200px;
+	width: 280px;
 }
 
 .left_image {
-	float: right;
+	float: left;
 	margin: 10px;
 }

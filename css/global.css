@@ -83,6 +83,10 @@ body {
 	text-align: center;
 }
 
+.clear {
+	clear: both;
+}
+
 p {
 	font-family: sans-serif;
 }
