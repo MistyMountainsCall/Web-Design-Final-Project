@@ -1,7 +1,23 @@
-.review h1 {
+h1 {
+	text-align: center;
+}
 
+.review {
+	margin: 10px;
+	padding 1;
+	border-image-width: 2px;
+	border-color: white;
+	border-style: solid;
 }
 
 .review h2 {
+	margin-left: 10px;
+	font-family: 
+}
 
+.review p {
+	margin-left: 20px;
+}
+h3 {
+	text-align: center;
 }

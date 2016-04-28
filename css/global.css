@@ -1,6 +1,7 @@
 body {
 	position: top;
 	margin: 0;
+	background-image: url("images/back.png");
 }
 
 #nav {
@@ -68,7 +69,6 @@ body {
 }
 
 #footer {
-	background-color: #202020;
 	width: 1000px;
 	height: 28px;
 	border-top: 1px solid #E0E0E0;
