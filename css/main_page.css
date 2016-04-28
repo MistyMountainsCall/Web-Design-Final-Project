@@ -1,3 +1,16 @@
+#title_image {
+	margin-bottom: 5px;
+}
+
+.deal_item h2 {
+	text-align: center;
+}
+
+.deal_item {
+	width: 1000px;
+	height: 210px;
+}
+
 .left {
 	width: 380px;
 	float: left;
@@ -8,25 +21,4 @@
 	width: 580px;
 	float: right;
 	margin-right: 10px;
-}
-
-.deal_item {
-	width: 1000px;
-	height: 210px;
-}
-
-#main_title {
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 0;
-	margin-bottom: 20px;
-	display: block;
-}
-
-#title_image {
-	margin-bottom: 5px;
-}
-
-.deal_item h2 {
-	text-align: center;
 }
